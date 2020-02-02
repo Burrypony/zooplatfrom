@@ -79,19 +79,7 @@ a:active{
     margin-left: 110px;
     margin-top:10px;
 }
-.catsfotos2{
-    display:flex;
-    justify-content: center;
-}
-.catsfotos2 img{
-    margin: 5px 15px;
-    width: 330px;
-    height: 470px;
-}
-.catsfotos2 p{
-    margin-left: 110px;
-    margin-top:10px;
-}
+
 .cat{
     position: relative;
 }
